@@ -8,9 +8,9 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Страница из ConfigMap</title> # ИЗМЕНИТЕ: Заголовок страницы
+      <title>cool</title>
     </head>
     <body>
-      <h1>Привет от Kubernetes!</h1> # ДОБАВЬТЕ: Свой контент страницы
+      <h1>nice</h1>
     </body>
     </html>
